@@ -1,0 +1,8 @@
+com/jebrial/thumpweb/core/Player.class
+com/jebrial/thumpweb/ThumpWebApplication.class
+com/jebrial/thumpweb/ThumpWebConfiguration.class
+com/jebrial/thumpweb/ThumpWebApplication$2.class
+com/jebrial/thumpweb/resources/PlayersResource.class
+com/jebrial/thumpweb/ThumpWebApplication$1.class
+com/jebrial/thumpweb/db/PlayerDAO.class
+com/jebrial/thumpweb/resources/PlayerResource.class
